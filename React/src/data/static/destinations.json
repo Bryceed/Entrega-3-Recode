@@ -1,0 +1,176 @@
+{
+    "1": [{
+    "name": "São Paulo",
+    "country": "Brazil",
+    "ref_image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
+    "description": "São Paulo é a capital do estado de São Paulo, no Brasil. É conhecida como a “Cidade do Gás”, por sua concentração de gás carbônico. O nome da cidade vem do antigo nome de São Paulo, que significa “terra de gás”, em homenagem ao gás natural que produziu a cidade. A cidade é conhecida pelo seu clima tropical, com temperaturas médias entre 15 e 25 °C (57 e 75 °F), e pelo seu clima quente, com temperaturas médias entre 25 e 35 °C (80 e 95 °F). O clima é predominantemente seco, mas a maior parte do ano é chuvoso, com temperaturas médias entre 15 e 25 °C (57 e 75 °F).",
+    "destiny": [
+        {
+            "dId": 1,
+            "name": "Praia de Santos",
+            "description": "Praia de Santos é uma praia situada na cidade de São Paulo, no estado de São Paulo, Brasil. A praia é um dos principais pontos turísticos da cidade, e é conhecida pelo seu clima quente, com temperaturas médias entre 25 e 35 °C (80 e 95 °F). A praia é um dos principais pontos turísticos da cidade, e é conhecida pelo seu clima quente, com temperaturas médias entre 25 e 35 °C (80 e 95 °F). A praia é um dos principais pontos turísticos da cidade, e é conhecida pelo seu clima quente, com temperaturas médias entre 25 e 35 °C (80 e 95 °F). A praia é um dos principais pontos turísticos da cidade, e é conhecida pelo seu clima quente, com temperaturas médias entre 25 e 35 °C (80 e 95 °F).",
+            "ref_image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
+            "price": "100,00",
+            "currency": "BRL",
+            "travel": [
+                {
+                    "canIncludeHotel": 1,
+                    "canIncludeRestaurant": 1,
+                    "canIncludeTransport": 1,
+                    "transport": [
+                        {
+                            "canUseBus": 1,
+                            "canUseTrain": 1,
+                            "canUsePlane": 1,
+                            "canUseRentedCar": 1,
+                            "canUseBoat": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "dId": 2,
+            "name": "MASP - Museu de Arte Sacra de São Paulo",
+            "description": "Museu de Arte de São Paulo Assis Chateaubriand (mais conhecido pelo acrônimo MASP) é um centro cultural e museu brasileiro concebido em 1947 idealizado pelo jornalista paraibano Assis Chateaubriand com o crítico de arte italiano Pietro Bardi. Situado desde 7 de novembro de 1968, na Avenida Paulista, cidade de São Paulo (estado homônimo), em um edifício projetado pela arquiteta ítalo-brasileira Lina Bo Bardi para ser sua sede. Considerado uma das mais importantes instituições culturais brasileiras.",
+            "ref_image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
+            "price": "140,00",
+            "currency": "BRL",
+            "travel": [
+                {
+                    "canIncludeHotel": 1,
+                    "canIncludeRestaurant": 1,
+                    "canIncludeTransport": 1,
+                    "transport": [
+                        {
+                            "canUseBus": 1,
+                            "canUseTrain": 1,
+                            "canUsePlane": 1,
+                            "canUseRentedCar": 1,
+                            "canUseBoat": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "dId": 3,
+            "name": "Estádio de Futebol e Museu da História - Estádio de São Paulo",
+            "description": "Estádio de Futebol e Museu da História - Estádio de São Paulo (em português: Estádio de São Paulo) é um estádio de futebol localizado na cidade de São Paulo, no estado de São Paulo, Brasil. O estádio foi inaugurado em 18 de julho de 1957, e foi construído por um grupo de arquitetos italianos, que se dedicaram ao projeto de um estádio de futebol de área de 26,5 hectares, com um número de torcedores de até 1.500.000. O estádio foi inaugurado em 18 de julho de 1957, e foi construído por um grupo de arquitetos italianos, que se dedicaram ao projeto de um estádio de futebol de área de 26,5 hectares, com um número de torcedores de até 1.500.000.",
+            "ref_image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
+            "price": "200,00",
+            "currency": "BRL",
+            "travel": [
+                {
+                    "canIncludeHotel": 1,
+                    "canIncludeRestaurant": 1,
+                    "canIncludeTransport": 1,
+                    "transport": [
+                        {
+                            "canUseBus": 1,
+                            "canUseTrain": 1,
+                            "canUsePlane": 1,
+                            "canUseRentedCar": 1,
+                            "canUseBoat": 1
+                        }
+                    ]
+                }
+            ]
+        }
+    ]}],
+    "2": [{
+        "name": "Rio de Janeiro",
+        "destiny": [
+            {
+                "dId": 1,
+                "name": "Praia de Copacabana",
+                "description": "A praia de Copacabana está situada na cidade do Rio de Janeiro, no estado do Rio de Janeiro, Brasil. A praia é um dos principais pontos turísticos da cidade, e é conhecida pelo seu clima quente, com temperaturas médias entre 25 e 35 °C (80 e 95 °F). ",
+                "ref_image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
+                "price": "100,00",
+                "currency": "BRL",
+                "travel": [
+                    {
+                        "canIncludeHotel": 1,
+                        "canIncludeRestaurant": 1,
+                        "canIncludeTransport": 1,
+                        "transport": [
+                            {
+                                "canUseBus": 1,
+                                "canUseTrain": 1,
+                                "canUsePlane": 1,
+                                "canUseRentedCar": 1,
+                                "canUseBoat": 1
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "dId": 2,
+                "name": "Ipanema",
+                "description": "Ipanema é um complexo cultural e artístico de Rio de Janeiro, no Brasil. O complexo é um dos mais importantes do Rio de Janeiro, e é conhecido por ser um dos pontos turísticos mais importantes da cidade.",
+                "ref_image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
+                "price": "150,00",
+                "currency": "BRL",
+                "travel": [
+                    {
+                        "canIncludeHotel": 1,
+                        "canIncludeRestaurant": 1,
+                        "canIncludeTransport": 1,
+                        "transport": [
+                            {
+                                "canUseBus": 1,
+                                "canUseTrain": 1,
+                                "canUsePlane": 1,
+                                "canUseRentedCar": 1,
+                                "canUseBoat": 1
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "dId": 3,
+                "name": "Pão de Açúcar",
+                "description": "Pão de Açúcar é um complexo cultural e artístico de Rio de Janeiro, no Brasil. O complexo é um dos mais importantes do Rio de Janeiro, e é conhecido por ser um dos pontos turísticos mais importantes da cidade.",
+                "ref_image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
+                "price": "200,00",
+                "currency": "BRL",
+                "travel": [
+                    {
+                        "canIncludeHotel": 1,
+                        "canIncludeRestaurant": 1,
+                        "canIncludeTransport": 1,
+                        "transport": [
+                            {
+                                "canUseBus": 1,
+                                "canUseTrain": 1,
+                                "canUsePlane": 1,
+                                "canUseRentedCar": 1,
+                                "canUseBoat": 1
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }],
+    "exclaimer": [{
+        "en": [{
+            "title": "This is just a development test.",
+            "description": "Please, do not use this service for any commercial purpose. (we're not any kind of a company, we're not going to nowhere)"
+        }],
+        "pt": [{
+            "title": "Isso é apenas um teste de desenvolvimento!",
+            "description": "Por favor, não utilize esse serviço para qualquer finalidade comercial. (nós não somos nenhuma empresa, não estamos indo para lugar algum)",
+            "ps": ["Se estiver lendo isso e encontrar registros que não foram utilizados pelo serviço, levem em consideração o prazo e os estudos em pararelo, dentro do nosso tempo de disponibilidade para isso.", "...mas entendi bem a sintaxe do JSON."]
+        }],
+        "es": [{
+            "title": "Esto es solo un test",
+            "description": "Por favor, no utilice esta aplicación para ningún propósito comercial. (no somos ninguna empresa, no estamos yendo a ningún lugar)"
+        }]
+    }]
+}
+
+
+
